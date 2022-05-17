@@ -1,0 +1,13 @@
+name: dio_proxy_adapter
+description: Simple proxy configuration for Dio
+version: 1.0.0
+repository: https://github.com/netsells/dio-proxy-adapter
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  dio: ^4.0.6
+
+dev_dependencies:
+  lints: ^2.0.0
