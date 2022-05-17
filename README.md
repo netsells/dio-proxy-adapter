@@ -13,7 +13,7 @@ Add the following dependencies to your `pubspec.yaml`:
 ```yaml
 dependencies:
     dio: ^4.0.6
-    dio_proxy_adapter: ^1.0.0
+    dio_proxy_adapter: ^1.0.1
 ```
 
 ## Usage
